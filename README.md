@@ -1,6 +1,6 @@
 # playwrite
 
-This test Automation framework is designed to {{project name}}
+This test Automation framework is designed to Tracy Anderson
 
 Installation
 ____________
@@ -11,7 +11,7 @@ ____________
 Run Locally
 ____________
 
-git clone {}
+git clone 
 
 Open the project folder
 Open command prompt
