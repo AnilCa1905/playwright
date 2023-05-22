@@ -7,7 +7,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test --headed",
+    "test": "npx playwright test --headless",
     "openReport": "npx playwright show-report",
     "jest": "npx jest"
   },
